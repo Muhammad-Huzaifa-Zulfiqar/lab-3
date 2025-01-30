@@ -2,3 +2,5 @@ Console.WriteLine("Muhammad Huzaifa");
 Console.WriteLine("24-ST-007");
 int a=5,b=7;
 Console.WriteLine("Sum is ",a+b);
+int a=5,b=7;
+Console.WriteLine("SUbtract is ",a-b);
